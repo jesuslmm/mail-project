@@ -1,0 +1,17 @@
+textarea {
+    min-height: 400px;
+}
+
+.box {
+   border: 2px solid gray;
+   margin-top: 20px;
+}
+
+.cvb{
+    margin-top:-68px;
+}
+
+.vbn{
+    margin-left: 90px;
+    margin-top:30px;
+}
