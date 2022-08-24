@@ -5,3 +5,4 @@ Proyecto realizado para el curso cs50, curso dictado por la universidad de harva
 
 Proyecto web que se basa en una web de emails, siguiendo el modelo de por ejemplo gmail, donde los usuarios pueden mandar correos electronicos
 a otros usuarios, asi como tambien responder, archivar, guardar.
+
